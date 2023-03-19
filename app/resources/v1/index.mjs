@@ -1,3 +1,4 @@
+export * as download from './download.mjs'
 export * as flags from './flags.mjs'
 export * as geo from './geo.mjs'
 export * as streetImages from './street_images.mjs'
