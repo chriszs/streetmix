@@ -103,8 +103,8 @@
     },
     "units": {
       "label": "Mittayksikkö",
-      "metric": "Metrit",
-      "imperial": "Jalat"
+      "metric": "",
+      "imperial": ""
     }
   },
   "msg": {
